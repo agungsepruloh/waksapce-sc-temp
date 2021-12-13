@@ -9,7 +9,7 @@ import './HeroHelper.sol';
 /// @title A contract that manages transfering zombie ownership
 /// @author Agung Sepruloh
 /// @dev Development
-abstract contract HeroOwnership is HeroHelper, ERC721 {
+contract HeroOwnership is HeroHelper, ERC721 {
   using SafeMath for uint256;
   using SafeMath32 for uint32;
   using SafeMath16 for uint16;
