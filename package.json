@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/agungsepruloh/waksapce-sc-temp#readme",
   "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1",
     "@truffle/hdwallet-provider": "^2.0.0",
     "assert": "^2.0.0",
     "fs-extra": "^10.0.0",
